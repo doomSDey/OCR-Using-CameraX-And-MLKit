@@ -7,7 +7,7 @@ Objective of the project:
 Instructions:
   Add your own "google-services.json" file and compile and you are good to go.
   
- ##Detailed working of the application:
+ ## Detailed working of the application:
   https://medium.com/@sdptd20/exploring-ocr-capabilities-of-ml-kit-using-camera-x-9949633af0fe
 
 References:
