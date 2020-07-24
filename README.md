@@ -1,4 +1,4 @@
-# Text Recognition from live Camera stream using CameraX and ML Kit
+# OCR(Optical character recognition) using CameraX and ML Kit
 Objective of the project:
   1. Implement CameraX preview.
   2.Apply a box overlay for specific area scanning
