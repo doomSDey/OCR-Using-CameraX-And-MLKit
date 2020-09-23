@@ -1,7 +1,7 @@
 # OCR(Optical character recognition) using CameraX and ML Kit
 Objective of the project:
   1. Implement CameraX preview.
-  2.Apply a box overlay for specific area scanning
+  2. Apply a box overlay for specific area scanning
   3. Use ML Kit to process each cropped frame and display decoded text
 
 Instructions:
